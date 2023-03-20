@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="OcrHandler\" />
+    <None Remove="TesseractHandler\" />
+    <None Remove="Models\" />
+    <None Remove="tessdata\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="OcrOperation\" />
+    <Folder Include="TesseractHandler\" />
+    <Folder Include="Models\" />
+    <Folder Include="tessdata\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Tesseract" Version="5.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+</Project>

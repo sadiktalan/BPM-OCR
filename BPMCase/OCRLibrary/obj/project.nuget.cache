@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvP4dXYublBieB72UnwxK/rd+FPgFhb7bsZJtWcbnCxnJKTBAAXYQW1FIRWdmltmM/BZ+xFyBVR5av18fquvug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sadik\\Desktop\\dd-20230320T045504Z-001\\dd\\BPMCase\\OCRLibrary\\OCRLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadik\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sadik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sadik\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sadik\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
